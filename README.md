@@ -1,7 +1,6 @@
 # About Me
 - Hi, I’m Abhishek Khanduri.
 - I’m interested in Web Development
-- <a href="https://www.linkedin.com/in/abhishek-negi-04111a1a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-n-b9854113a/" height="30" width="40" /></a>
 
 ### :computer: Work
 
@@ -20,7 +19,6 @@
 # 💻Terminal
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![windows%20terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinegi2&theme=blue-green) -->
 
