@@ -32,6 +32,6 @@
 
 # 📊GitHub Stats :
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhinegi2&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinegi2&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Khanduri2&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Khanduri2&theme=tokyonight" />
 </p>
