@@ -1,6 +1,6 @@
 # About Me
 - Hi, I’m Abhishek Khanduri.
-- I’m a full stack 🧑‍💻 
+- I’m a full stack web developer 🧑‍💻 
 
 ### :computer: Work
 
