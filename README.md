@@ -1,6 +1,6 @@
 # About Me
 - Hi, I’m Abhishek Khanduri.
-- I’m interested in Web Development
+- I’m a full stack 🧑‍💻 
 
 ### :computer: Work
 
