@@ -20,10 +20,8 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinegi2&theme=blue-green) -->
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-khanduri&theme=blue-green) -->
 
-# 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # 📊GitHub Stats :
 <p align="center">
