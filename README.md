@@ -20,11 +20,11 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-khanduri&theme=blue-green) -->
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Khanduri&theme=blue-green) -->
 
 
 # 📊GitHub Stats :
-<p align="center">
+<p align="center" justify="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Khanduri&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Khanduri&theme=tokyonight" />
 </p>
